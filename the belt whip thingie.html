@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="beltwhipthingie.css">
+<script>beltwhipthingie.js</script>
+
+<head>
+<title> the belt whip thingie </title>
+<h1> Why, hallo, my dear chicken. What belt would you like to whip with today? </h1>
+<h2> this is the whip simulator that Nash showed me on his phone. I decided to program it. </h2>
+<span> CHOOSE A WHIP </span>
+</head>
+
+<body id="body">
+
+<br>
+
+<button type="button" onclick="document.getElementById('youhavechosen').innerHTML = 'The belt you have chosen: Standard whip'">
+<img src="C:\Users\Super\OneDrive\Documents\pogramming\belt project\me with the standard belt.png" alt="a standard belt ready to whip">
+<br>
+<audio controls>
+<source src="C:\Users\Super\OneDrive\Documents\pogramming\belt project\standard.mp4" type="audio/mpeg" loop="false">
+</audio>
+</br>
+</button>
+
+<button type="button" onclick="document.getElementById('youhavechosen').innerHTML = 'The belt you have chosen: A chicken of the chicken resistance holding 2 belts telepathically IDK I am a chicken don\'t ask how I thought of this'">
+<img src="C:\Users\Super\OneDrive\Documents\pogramming\belt project\the chicken with 2 belts.png" alt="a chicken in a resistance holding 2 belts telepathically">
+<br>
+<audio controls>
+<source src="C:\Users\Super\OneDrive\Documents\pogramming\belt project\tschika get back to work.mp3" type="audio/mpeg" loop="false">
+</audio>
+</br>
+</button>
+
+<button type="button" onclick="document.getElementById('youhavechosen').innerHTML = 'The belt you have chosen: bulbasaur using vine whip - it\'s super effective!'">
+<img src="C:\Users\Super\OneDrive\Documents\pogramming\belt project\bulbasaur uses vines whip and it's super effective.png" alt="bulbasaur uses vine whip. It's super effective.">
+</button>
+
+</br>
+
+<p id="youhavechosen">The belt you have chosen: none </p>
+
+<br>
+<h2>Settings</h2>
+<h3>Why, hallo, my dear chicken. What whip-settings would you like to adjust today?</h3>
+<button type="button" id="darkmode" onclick=darkmode()>Dark-mode?</button>
+<button type="button" id="lightmode" onclick=lightmode()>Light-mode?</button>
+</br>
+
+</body>
+
+
+</html>

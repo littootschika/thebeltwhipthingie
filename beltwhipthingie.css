@@ -1,0 +1,54 @@
+h1 {
+text-align: center;
+padding-left: 30%;
+padding-right: 30%;
+background-color: yellow;
+padding-bottom: 0px;
+margin-bottom: 0px;
+}
+
+
+h2 {
+text-align: center;
+font-size: 26;
+background-color: gold;
+margin-top: 0px;
+margin-bottom: 10px;
+}
+
+img {
+height: 125px;
+border: 3px solid red;
+}
+
+img:hover {
+border: 5px double limegreen;
+height: 110px;
+}
+
+span {
+font-size: 500%;
+color: rgb(255, 0, 0);
+}
+
+p {
+text-align: center;
+font-size: 500%;
+font-family: impact;
+border-left: 15px solid red;
+border-right: 15px solid red;
+border-bottom: 25px solid crimson;
+border-top: 10px solid firebrick;
+padding: 10px;
+background-color: salmon;
+}
+
+button {
+font-family: impact;
+color: red;
+}
+
+audio {
+height: 15px;
+width: 200px;
+}
