@@ -6,6 +6,8 @@ function darkmode() {
   document.getElementById('h32').style.color = 'black';
   document.getElementById('span1').style.color = 'mediumspringgreen';
   document.getElementById('span1').style.backgroundColor = 'black';
+  document.getElementById('span2').style.color = 'mediumspringgreen';
+  document.getElementById('span2').style.backgroundColor = 'black';
   document.getElementById('youhavechosen').style.color = 'black';
   document.getElementById('body').style.backgroundColor = 'black';
   document.getElementById('h2').style.backgroundColor = 'purple';
@@ -57,6 +59,8 @@ function firelightmode() {
   document.getElementById('youhavechosen').style.background = 'salmon';
   document.getElementById('span1').style.color = 'crimson';
   document.getElementById('span1').style.backgroundColor = 'white';
+  document.getElementById('span2').style.color = 'crimson';
+  document.getElementById('span2').style.backgroundColor = 'white';
   document.getElementById('youhavechosen').style.color = 'black';
   document.getElementById('audiobutton1').style.border = '3px solid hotpink';
   document.getElementById('audiobutton2').style.border = '3px solid hotpink';
@@ -91,6 +95,8 @@ function discordlightmode() {
   document.getElementById('youhavechosen').style.background = 'ghostwhite';
   document.getElementById('span1').style.color = 'ghostwhite';
   document.getElementById('span1').style.backgroundColor = 'white';
+  document.getElementById('span2').style.color = 'ghostwhite';
+  document.getElementById('span2').style.backgroundColor = 'white';
   document.getElementById('youhavechosen').style.color = 'ghostwhite';
   document.getElementById('audiobutton1').style.border = '3px solid white';
   document.getElementById('audiobutton2').style.border = '3px solid white';
@@ -109,6 +115,8 @@ function gaymode() {
   document.getElementById('h32').style.color = 'black';
   document.getElementById('span1').style.color = 'black';
   document.getElementById('span1').style.backgroundColor = 'yellow';
+  document.getElementById('span2').style.color = 'black';
+  document.getElementById('span2').style.backgroundColor = 'yellow';
   document.getElementById('body').style.backgroundColor = 'white';
   document.getElementById('h2').style.backgroundColor = 'orange';
   document.getElementById('h22').style.backgroundColor = 'blue';
@@ -161,6 +169,8 @@ function backin1969mode() {
   document.getElementById('youhavechosen').style.background = 'darkgrey';
   document.getElementById('span1').style.color = 'black';
   document.getElementById('span1').style.backgroundColor = 'grey';
+  document.getElementById('span2').style.color = 'black';
+  document.getElementById('span2').style.backgroundColor = 'grey';
   document.getElementById('youhavechosen').style.color = 'black';
   document.getElementById('audiobutton1').style.border = '3px solid black';
   document.getElementById('audiobutton2').style.border = '3px solid black';
