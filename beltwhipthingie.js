@@ -21,6 +21,7 @@ function darkmode() {
   document.getElementById('audiobutton4').style.backgroundColor = 'blue';
   document.getElementById('audiobutton5').style.backgroundColor = 'blue';
   document.getElementById('audiobutton6').style.backgroundColor = 'blue';
+  document.getElementById('audiobutton7').style.backgroundColor = 'blue';
   document.getElementById('youhavechosen').style.borderTop = '15px solid aqua';
   document.getElementById('youhavechosen').style.borderBottom = '15px solid darkcyan';
   document.getElementById('youhavechosen').style.borderLeft = '15px solid mediumturquoise';
@@ -32,6 +33,7 @@ function darkmode() {
   document.getElementById('audiobutton4').style.border = '3px solid limegreen';
   document.getElementById('audiobutton5').style.border = '3px solid limegreen';
   document.getElementById('audiobutton6').style.border = '3px solid limegreen';
+  document.getElementById('audiobutton7').style.border = '3px solid limegreen';
 };
 
 function firelightmode() {
@@ -52,6 +54,7 @@ function firelightmode() {
   document.getElementById('audiobutton4').style.backgroundColor = 'orange';
   document.getElementById('audiobutton5').style.backgroundColor = 'orange';
   document.getElementById('audiobutton6').style.backgroundColor = 'orange';
+  document.getElementById('audiobutton7').style.backgroundColor = 'orange';
   document.getElementById('youhavechosen').style.borderTop = '15px solid firebrick';
   document.getElementById('youhavechosen').style.borderBottom = '15px solid crimson';
   document.getElementById('youhavechosen').style.borderLeft = '15px solid red';
@@ -68,6 +71,7 @@ function firelightmode() {
   document.getElementById('audiobutton4').style.border = '3px solid hotpink';
   document.getElementById('audiobutton5').style.border = '3px solid hotpink';
   document.getElementById('audiobutton6').style.border = '3px solid hotpink';
+  document.getElementById('audiobutton7').style.border = '3px solid hotpink';
 };
 
 function discordlightmode() {
@@ -88,6 +92,7 @@ function discordlightmode() {
   document.getElementById('audiobutton4').style.backgroundColor = 'white';
   document.getElementById('audiobutton5').style.backgroundColor = 'white';
   document.getElementById('audiobutton6').style.backgroundColor = 'white';
+  document.getElementById('audiobutton7').style.backgroundColor = 'white';
   document.getElementById('youhavechosen').style.borderTop = '15px solid white';
   document.getElementById('youhavechosen').style.borderBottom = '15px solid white';
   document.getElementById('youhavechosen').style.borderLeft = '15px solid white';
@@ -104,6 +109,7 @@ function discordlightmode() {
   document.getElementById('audiobutton4').style.border = '3px solid white';
   document.getElementById('audiobutton5').style.border = '3px solid white';
   document.getElementById('audiobutton6').style.border = '3px solid white';
+  document.getElementById('audiobutton7').style.border = '3px solid white';
   confirm('You are an idiot for using discord light mode');
 };
 
@@ -129,6 +135,7 @@ function gaymode() {
   document.getElementById('audiobutton4').style.backgroundColor = 'green';
   document.getElementById('audiobutton5').style.backgroundColor = 'green';
   document.getElementById('audiobutton6').style.backgroundColor = 'green';
+  document.getElementById('audiobutton7').style.backgroundColor = 'green';
   document.getElementById('youhavechosen').style.borderTop = '15px solid aqua';
   document.getElementById('youhavechosen').style.borderBottom = '15px solid aqua';
   document.getElementById('youhavechosen').style.borderLeft = '15px solid aqua';
@@ -141,6 +148,7 @@ function gaymode() {
   document.getElementById('audiobutton4').style.borderRight = '3px solid green';
   document.getElementById('audiobutton5').style.borderRight = '3px solid green';
   document.getElementById('audiobutton6').style.borderRight = '3px solid green';
+  document.getElementById('audiobutton7').style.borderRight = '3px solid green';
   alert('If you\'re gay, then don\'t worry, you\'re loved. But not by me of course, I\'m not gay');
 };
 
@@ -162,6 +170,7 @@ function backin1969mode() {
   document.getElementById('audiobutton4').style.backgroundColor = 'silver';
   document.getElementById('audiobutton5').style.backgroundColor = 'silver';
   document.getElementById('audiobutton6').style.backgroundColor = 'silver';
+  document.getElementById('audiobutton7').style.backgroundColor = 'silver';
   document.getElementById('youhavechosen').style.borderTop = '15px solid grey';
   document.getElementById('youhavechosen').style.borderBottom = '15px solid slategrey';
   document.getElementById('youhavechosen').style.borderLeft = '15px solid dimgrey';
@@ -178,4 +187,5 @@ function backin1969mode() {
   document.getElementById('audiobutton4').style.border = '3px solid black';
   document.getElementById('audiobutton5').style.border = '3px solid black';
   document.getElementById('audiobutton6').style.border = '3px solid black';
+  document.getElementById('audiobutton7').style.border = '3px solid black';
 }
