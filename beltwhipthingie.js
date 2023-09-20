@@ -6,8 +6,6 @@ function darkmode() {
   document.getElementById('h32').style.color = 'black';
   document.getElementById('span1').style.color = 'mediumspringgreen';
   document.getElementById('span1').style.backgroundColor = 'black';
-  document.getElementById('span2').style.color = 'mediumspringgreen';
-  document.getElementById('span2').style.backgroundColor = 'black';
   document.getElementById('youhavechosen').style.color = 'black';
   document.getElementById('body').style.backgroundColor = 'black';
   document.getElementById('h2').style.backgroundColor = 'purple';
@@ -20,8 +18,6 @@ function darkmode() {
   document.getElementById('audiobutton3').style.backgroundColor = 'blue';
   document.getElementById('audiobutton4').style.backgroundColor = 'blue';
   document.getElementById('audiobutton5').style.backgroundColor = 'blue';
-  document.getElementById('audiobutton6').style.backgroundColor = 'blue';
-  document.getElementById('audiobutton7').style.backgroundColor = 'blue';
   document.getElementById('youhavechosen').style.borderTop = '15px solid aqua';
   document.getElementById('youhavechosen').style.borderBottom = '15px solid darkcyan';
   document.getElementById('youhavechosen').style.borderLeft = '15px solid mediumturquoise';
@@ -32,8 +28,6 @@ function darkmode() {
   document.getElementById('audiobutton3').style.border = '3px solid limegreen';
   document.getElementById('audiobutton4').style.border = '3px solid limegreen';
   document.getElementById('audiobutton5').style.border = '3px solid limegreen';
-  document.getElementById('audiobutton6').style.border = '3px solid limegreen';
-  document.getElementById('audiobutton7').style.border = '3px solid limegreen';
 };
 
 function firelightmode() {
@@ -53,8 +47,6 @@ function firelightmode() {
   document.getElementById('audiobutton3').style.backgroundColor = 'orange';
   document.getElementById('audiobutton4').style.backgroundColor = 'orange';
   document.getElementById('audiobutton5').style.backgroundColor = 'orange';
-  document.getElementById('audiobutton6').style.backgroundColor = 'orange';
-  document.getElementById('audiobutton7').style.backgroundColor = 'orange';
   document.getElementById('youhavechosen').style.borderTop = '15px solid firebrick';
   document.getElementById('youhavechosen').style.borderBottom = '15px solid crimson';
   document.getElementById('youhavechosen').style.borderLeft = '15px solid red';
@@ -62,16 +54,12 @@ function firelightmode() {
   document.getElementById('youhavechosen').style.background = 'salmon';
   document.getElementById('span1').style.color = 'crimson';
   document.getElementById('span1').style.backgroundColor = 'white';
-  document.getElementById('span2').style.color = 'crimson';
-  document.getElementById('span2').style.backgroundColor = 'white';
   document.getElementById('youhavechosen').style.color = 'black';
   document.getElementById('audiobutton1').style.border = '3px solid hotpink';
   document.getElementById('audiobutton2').style.border = '3px solid hotpink';
   document.getElementById('audiobutton3').style.border = '3px solid hotpink';
   document.getElementById('audiobutton4').style.border = '3px solid hotpink';
   document.getElementById('audiobutton5').style.border = '3px solid hotpink';
-  document.getElementById('audiobutton6').style.border = '3px solid hotpink';
-  document.getElementById('audiobutton7').style.border = '3px solid hotpink';
 };
 
 function discordlightmode() {
@@ -91,8 +79,6 @@ function discordlightmode() {
   document.getElementById('audiobutton3').style.backgroundColor = 'white';
   document.getElementById('audiobutton4').style.backgroundColor = 'white';
   document.getElementById('audiobutton5').style.backgroundColor = 'white';
-  document.getElementById('audiobutton6').style.backgroundColor = 'white';
-  document.getElementById('audiobutton7').style.backgroundColor = 'white';
   document.getElementById('youhavechosen').style.borderTop = '15px solid white';
   document.getElementById('youhavechosen').style.borderBottom = '15px solid white';
   document.getElementById('youhavechosen').style.borderLeft = '15px solid white';
@@ -100,16 +86,12 @@ function discordlightmode() {
   document.getElementById('youhavechosen').style.background = 'ghostwhite';
   document.getElementById('span1').style.color = 'ghostwhite';
   document.getElementById('span1').style.backgroundColor = 'white';
-  document.getElementById('span2').style.color = 'ghostwhite';
-  document.getElementById('span2').style.backgroundColor = 'white';
   document.getElementById('youhavechosen').style.color = 'ghostwhite';
   document.getElementById('audiobutton1').style.border = '3px solid white';
   document.getElementById('audiobutton2').style.border = '3px solid white';
   document.getElementById('audiobutton3').style.border = '3px solid white';
   document.getElementById('audiobutton4').style.border = '3px solid white';
   document.getElementById('audiobutton5').style.border = '3px solid white';
-  document.getElementById('audiobutton6').style.border = '3px solid white';
-  document.getElementById('audiobutton7').style.border = '3px solid white';
   confirm('You are an idiot for using discord light mode');
 };
 
@@ -121,8 +103,6 @@ function gaymode() {
   document.getElementById('h32').style.color = 'black';
   document.getElementById('span1').style.color = 'black';
   document.getElementById('span1').style.backgroundColor = 'yellow';
-  document.getElementById('span2').style.color = 'black';
-  document.getElementById('span2').style.backgroundColor = 'yellow';
   document.getElementById('body').style.backgroundColor = 'white';
   document.getElementById('h2').style.backgroundColor = 'orange';
   document.getElementById('h22').style.backgroundColor = 'blue';
@@ -134,8 +114,6 @@ function gaymode() {
   document.getElementById('audiobutton3').style.backgroundColor = 'green';
   document.getElementById('audiobutton4').style.backgroundColor = 'green';
   document.getElementById('audiobutton5').style.backgroundColor = 'green';
-  document.getElementById('audiobutton6').style.backgroundColor = 'green';
-  document.getElementById('audiobutton7').style.backgroundColor = 'green';
   document.getElementById('youhavechosen').style.borderTop = '15px solid aqua';
   document.getElementById('youhavechosen').style.borderBottom = '15px solid aqua';
   document.getElementById('youhavechosen').style.borderLeft = '15px solid aqua';
@@ -147,8 +125,6 @@ function gaymode() {
   document.getElementById('audiobutton3').style.border = '3px solid green';
   document.getElementById('audiobutton4').style.borderRight = '3px solid green';
   document.getElementById('audiobutton5').style.borderRight = '3px solid green';
-  document.getElementById('audiobutton6').style.borderRight = '3px solid green';
-  document.getElementById('audiobutton7').style.borderRight = '3px solid green';
   alert('If you\'re gay, then don\'t worry, you\'re loved. But not by me of course, I\'m not gay');
 };
 
@@ -169,8 +145,6 @@ function backin1969mode() {
   document.getElementById('audiobutton3').style.backgroundColor = 'silver';
   document.getElementById('audiobutton4').style.backgroundColor = 'silver';
   document.getElementById('audiobutton5').style.backgroundColor = 'silver';
-  document.getElementById('audiobutton6').style.backgroundColor = 'silver';
-  document.getElementById('audiobutton7').style.backgroundColor = 'silver';
   document.getElementById('youhavechosen').style.borderTop = '15px solid grey';
   document.getElementById('youhavechosen').style.borderBottom = '15px solid slategrey';
   document.getElementById('youhavechosen').style.borderLeft = '15px solid dimgrey';
@@ -178,14 +152,10 @@ function backin1969mode() {
   document.getElementById('youhavechosen').style.background = 'darkgrey';
   document.getElementById('span1').style.color = 'black';
   document.getElementById('span1').style.backgroundColor = 'grey';
-  document.getElementById('span2').style.color = 'black';
-  document.getElementById('span2').style.backgroundColor = 'grey';
   document.getElementById('youhavechosen').style.color = 'black';
   document.getElementById('audiobutton1').style.border = '3px solid black';
   document.getElementById('audiobutton2').style.border = '3px solid black';
   document.getElementById('audiobutton3').style.border = '3px solid black';
   document.getElementById('audiobutton4').style.border = '3px solid black';
   document.getElementById('audiobutton5').style.border = '3px solid black';
-  document.getElementById('audiobutton6').style.border = '3px solid black';
-  document.getElementById('audiobutton7').style.border = '3px solid black';
 }
