@@ -1,4 +1,9 @@
+const audioButtons = document.querySelectorAll('.audiobutton')
 function darkmode() {
+  for (let i=0; i>audioButtons.length' i++){
+    audioButtons[i].style.backgroundColor = 'blue';
+    audioButtons[i].style.border = '3px solid limegreen';
+  }
   document.getElementById('h1').style.color = 'black';
   document.getElementById('h2').style.color = 'black';
   document.getElementById('h22').style.color = 'black';
@@ -13,21 +18,11 @@ function darkmode() {
   document.getElementById('h1').style.backgroundColor = 'navy';
   document.getElementById('h3').style.backgroundColor = 'green';
   document.getElementById('h32').style.backgroundColor = 'green';
-  document.getElementById('audiobutton1').style.backgroundColor = 'blue';
-  document.getElementById('audiobutton2').style.backgroundColor = 'blue';
-  document.getElementById('audiobutton3').style.backgroundColor = 'blue';
-  document.getElementById('audiobutton4').style.backgroundColor = 'blue';
-  document.getElementById('audiobutton5').style.backgroundColor = 'blue';
   document.getElementById('youhavechosen').style.borderTop = '15px solid aqua';
   document.getElementById('youhavechosen').style.borderBottom = '15px solid darkcyan';
   document.getElementById('youhavechosen').style.borderLeft = '15px solid mediumturquoise';
   document.getElementById('youhavechosen').style.borderRight = '15px solid mediumturquoise';
   document.getElementById('youhavechosen').style.background = 'lightseagreen';
-  document.getElementById('audiobutton1').style.border = '3px solid limegreen';
-  document.getElementById('audiobutton2').style.border = '3px solid limegreen';
-  document.getElementById('audiobutton3').style.border = '3px solid limegreen';
-  document.getElementById('audiobutton4').style.border = '3px solid limegreen';
-  document.getElementById('audiobutton5').style.border = '3px solid limegreen';
 };
 
 function firelightmode() {
