@@ -1,3 +1,4 @@
+//for further optimisations, make css variables and change them
 const audioButtons = document.querySelectorAll('.audiobutton');
 const chosenWhip = document.querySelector('#youhavechosen');
     function darkmode() {
