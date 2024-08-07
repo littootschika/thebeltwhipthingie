@@ -11,8 +11,8 @@ const chosenWhip = document.querySelector('#youhavechosen');
     document.getElementById('h22').style.color = 'black';
     document.getElementById('h3').style.color = 'black';
     document.getElementById('h32').style.color = 'black';
-    document.querySelector('span').style.color = 'mediumspringgreen';
-    document.querySelector('span').style.backgroundColor = 'black';
+    document.querySelector('#span').style.color = 'mediumspringgreen';
+    document.querySelector('#span').style.backgroundColor = 'black';
     document.getElementById('youhavechosen').style.color = 'black';
     document.getElementById('body').style.backgroundColor = 'black';
     document.getElementById('h2').style.backgroundColor = 'purple';
@@ -47,8 +47,8 @@ function firelightmode(){
     chosenWhip.style.borderLeft = '15px solid red';
     chosenWhip.style.borderRight = '15px solid red';
     chosenWhip.style.background = 'salmon';
-    document.querySelector('span').style.color = 'crimson';
-    document.querySelector('span').style.backgroundColor = 'white';
+    document.querySelector('#span').style.color = 'crimson';
+    document.querySelector('#span').style.backgroundColor = 'white';
 };
 function discordlightmode() {
     for (let i=0; i<audioButtons.length; i++){
@@ -69,8 +69,8 @@ function discordlightmode() {
     chosenWhip.style.border = '15px solid white';
     chosenWhip.style.background = 'ghostwhite';
     chosenWhip.style.color = 'ghostwhite';
-    document.querySelector('span').style.color = 'ghostwhite';
-    document.querySelector('span').style.backgroundColor = 'white';
+    document.querySelector('#span').style.color = 'ghostwhite';
+    document.querySelector('#span').style.backgroundColor = 'white';
     confirm('You are an idiot for using discord light mode');
 };
 
@@ -84,8 +84,8 @@ function gaymode() {
     document.getElementById('h22').style.color = 'black';
     document.getElementById('h3').style.color = 'black';
     document.getElementById('h32').style.color = 'black';
-    document.querySelector('span').style.color = 'black';
-    document.querySelector('span').style.backgroundColor = 'yellow';
+    document.querySelector('#span').style.color = 'black';
+    document.querySelector('#span').style.backgroundColor = 'yellow';
     document.getElementById('body').style.backgroundColor = 'white';
     document.getElementById('h2').style.backgroundColor = 'orange';
     document.getElementById('h22').style.backgroundColor = 'blue';
@@ -118,6 +118,6 @@ function backin1969mode() {
     chosenWhip.style.borderLeft = '15px solid dimgrey';
     chosenWhip.style.borderRight = '15px solid dimgrey';
     chosenWhip.style.background = 'darkgrey';
-    document.querySelector('span').style.color = 'black';
-    document.querySelector('span').style.backgroundColor = 'grey';
+    document.querySelector('#span').style.color = 'black';
+    document.querySelector('#span').style.backgroundColor = 'grey';
 }
